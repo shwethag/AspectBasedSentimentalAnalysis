@@ -1,0 +1,3 @@
+Scrapy crawler is used to crawl the news articles
+Required crawlers must be added inside spiders folder.
+Suitable xpaths can be mentioned to extract the required content.
