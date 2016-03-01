@@ -7,14 +7,13 @@ class HinduSpider(scrapy.Spider):
     name = "hindu"
     allowed_domains = ["thehindu.com"]
     start_urls = [
-         #"http://www.thehindu.com/archive/web/2014/01/01/"#,
-         "http://www.thehindu.com/template/1-0-1/widget/archive/archiveWebDayRest.jsp?d=2014-01-01"
+         #"http://www.thehindu.com/archive/web/2014/01/03/"#,
+         "http://www.thehindu.com/template/1-0-1/widget/archive/archiveWebDayRest.jsp?d=2014-01-07"
     ]
 
     def parse(self, response):
-        filename = response.url.split("/")[-2] + '.html'
+        #links = response.xpath('//ul[@class="archiveDayList hide"]/*//@href').extract()
         links = response.xpath('//ul[@class="archiveDayRestList hide"]/*//@href').extract()
-        #links = response.xpath('//ul[@class="archiveDayRestList"]/li/a/@href').extract()
 
         for l in links:
             print l
@@ -23,8 +22,8 @@ class HinduSpider(scrapy.Spider):
         
     def process(self,response):
         title  = response.xpath('//h1[@class="detail-title"]/text()').extract()
-        body = response.xpath('//div[@class="article-text"]/p[@class="body"]/text()').extract()
-        filename = "01-01-2014.txt"
+        body = response.xpath('//div[@class="article-text"]/.//p[@class="body"]/text()').extract()
+        filename = "07-01-2014.xml"
         f = open(filename, 'a')
         f.write('<title>')
         for t in title:
