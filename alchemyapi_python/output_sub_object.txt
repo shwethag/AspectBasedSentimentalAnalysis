@@ -1,0 +1,167 @@
+{'object': [], 'subject': ['social media']}
+{'object': ['Delhi Police'], 'subject': []}
+{'object': ['BJP'], 'subject': ['Congress', 'vice-president', 'Rahul Gandhi']}
+{'object': ['Jawaharlal Nehru University'], 'subject': []}
+{'object': ['Hafiz Saeed'], 'subject': []}
+{'object': [], 'subject': ['Patiala House Courts']}
+{'object': [], 'subject': ['Delhi Police']}
+{'object': [], 'subject': ['Jawaharlal Nehru University', 'The Hindu']}
+{'object': ['Supreme Court'], 'subject': []}
+{'object': ['Twitter'],
+ 'subject': ['Maqbool Bhatt',
+             'JNU Students Union',
+             'president',
+             'Kanhaiya Kumar',
+             'BJP',
+             'O.P. Sharma']}
+{'object': ['Delhi'], 'subject': ['officer']}
+{'object': ['Maqbool Bhat', 'Sabarmati dhaba'], 'subject': []}
+{'object': ['Loveleen', '45 minutes'], 'subject': []}
+{'object': [], 'subject': ['Afzal Guru']}
+{'object': [], 'subject': ['Kedar Nath Singh']}
+{'object': [], 'subject': ['Mr Sharma']}
+{'object': ['India'], 'subject': []}
+{'object': ['O.P. Sharma'], 'subject': []}
+{'object': ['president', 'Kanhaiya Kumar'], 'subject': ['Delhi']}
+{'object': ['Afzal Guru'], 'subject': []}
+{'object': ['social media'], 'subject': []}
+{'object': ['political tool'], 'subject': []}
+{'object': [], 'subject': ['Sanghi']}
+{'object': ['India', 'Inquilab zindabad'], 'subject': []}
+{'object': ['ABVP', 'social democracy'],
+ 'subject': ['BJP', 'Inquilab zindabad', 'Babasaheb', 'Lenin']}
+{'object': ['Delhi Police'], 'subject': ['Delhi Police']}
+{'object': ['Babasaheb Ambedkars'], 'subject': []}
+{'object': ['JNU', 'Rohith Vemula'], 'subject': []}
+{'object': [], 'subject': ['president']}
+{'object': ['Sanghi'], 'subject': []}
+{'object': ['Kanhaiya Kumar', 'Prime Minister', 'AIDS'], 'subject': []}
+{'object': [], 'subject': ['FBI', 'Homeland Security']}
+{'object': [], 'subject': ['Kanhaiya Kumar']}
+{'object': [], 'subject': ['United Kingdom']}
+{'object': [], 'subject': ['JNU', 'president', 'Kanhaiya Kumar']}
+{'object': [], 'subject': ['Jawaharlal Nehru University']}
+{'object': ['Modi government', 'Prime Minister Narendra Modi'], 'subject': []}
+{'object': ['BJP',
+            'Chief Minister Nitish Kumar',
+            'Bihar',
+            'Jawaharlal Nehru University'],
+ 'subject': ['Chief Minister Nitish Kumar',
+             'Janata Dal-United',
+             'chief minister']}
+{'object': [], 'subject': ['BJP']}
+{'object': [], 'subject': ['ABVP']}
+{'object': ['Sabka Saath Sabka Vikaas'], 'subject': []}
+{'object': ['JNU', 'Parliament', 'BJP'], 'subject': []}
+{'object': [], 'subject': ['Jawaharlal Nehru University', 'Kanhaiya Kumar']}
+{'object': ['Rohith Vemula'], 'subject': []}
+{'object': ['four months'], 'subject': []}
+{'object': ['Kanhaiya Kumar', 'India', 'Modi'], 'subject': ['BJP']}
+{'object': ['ABVP', 'Rs.'], 'subject': ['India']}
+{'object': ['PhD'], 'subject': []}
+{'object': ['Mann Ki Baat'], 'subject': ['Mussolini']}
+{'object': [], 'subject': ['Parliament']}
+{'object': [], 'subject': ['JNU']}
+{'object': ['Delhi Police', 'Tihar Jail'],
+ 'subject': ['Kanhaiya Kumar', 'Delhi Chief Minister Arvind Kejriwal']}
+{'object': ['Lok Sabha TV'], 'subject': []}
+{'object': [], 'subject': ['India']}
+{'object': ['Kanhaiya Kumar'], 'subject': ['Delhi Police']}
+{'object': ['Prime Minister Narendra Modi', 'Satyamev Jayate'],
+ 'subject': ['28-year']}
+{'object': ['Rohith Vemula'], 'subject': []}
+{'object': [], 'subject': ['convict Afzal Guru']}
+{'object': ['Education Minister Smriti Irani', 'JNU'],
+ 'subject': ['Satyamev Jayate']}
+{'object': ['India'], 'subject': []}
+{'object': ['Bharat se Azaadi'], 'subject': []}
+{'object': [], 'subject': ['Education Minister Smriti Irani']}
+{'object': [], 'subject': ['Modiji']}
+{'object': ['Prime Minister Narendra Modi',
+            'Delhi government',
+            'Delhi High Court'],
+ 'subject': ['Kanhaiya Kumar', 'President', 'JNU Students Union', 'one-hour']}
+{'object': ['Jawaharlal Nehru University'], 'subject': []}
+{'object': [], 'subject': ['Delhi government']}
+{'object': ['Kanhaiya Kumar'],
+ 'subject': ['Saurabh Verma', 'Jawaharlal Nehru University']}
+{'object': [], 'subject': ['General Secretary', 'BJP']}
+{'object': ['Twitter'], 'subject': []}
+{'object': ['JNUSU'], 'subject': []}
+{'object': ['Jawaharlal Nehru University Students Union'],
+ 'subject': ['Jawaharlal Nehru University Students Union', 'JNUSU']}
+{'object': ['JNU'], 'subject': []}
+{'object': [], 'subject': ['ABVP']}
+{'object': ['Parliament'], 'subject': []}
+{'object': [], 'subject': ['JNU', 'vice-chancellor', 'M Jagadeesh Kumar']}
+{'object': ['Afzal Guru'], 'subject': []}
+{'object': ['president'], 'subject': ['Delhi Police']}
+{'object': ['All India Students Association',
+            'AISA',
+            'All India Students Federation',
+            'Akhil Bharatiya Vidyarthi Parishad'],
+ 'subject': ['Rajnath Singh']}
+{'object': [], 'subject': ['Delhi University', 'professor', 'SAR Geelani']}
+{'object': ['ABVP'], 'subject': []}
+{'object': ['Supreme Court', 'abominably', 'Kanhaiyya'],
+ 'subject': ['Jawaharlal Nehru University']}
+{'object': ['mike'], 'subject': []}
+{'object': [], 'subject': ['Kanhaiya Kumar']}
+{'object': [], 'subject': ['Ganga Dhaba']}
+{'object': ['Jawaharlal Nehru University'], 'subject': []}
+{'object': ['Kruschev', 'Stalin'], 'subject': []}
+{'object': ['Kanhaiya'], 'subject': ['Delhi']}
+{'object': [], 'subject': ['reporter']}
+{'object': ['Afzal Guru', 'Hyderabad University', 'Rohit'], 'subject': []}
+{'object': [], 'subject': ['Proctor']}
+{'object': ['Kashmir'], 'subject': []}
+{'object': [],
+ 'subject': ['JNU',
+             'Vice-Chancellor',
+             'Jagdeesh Kumar',
+             'secretary',
+             'Alok Singh',
+             'President',
+             'Anirban Bhattacharya']}
+{'object': [], 'subject': ['ABVP']}
+{'object': [], 'subject': ['Afzal Guru']}
+{'object': ['Home Ministry'], 'subject': []}
+{'object': [],
+ 'subject': ['student Umar Khalid', 'Kanhaiya Kumar', 'Afzal Guru']}
+{'object': ['Mandi House'], 'subject': []}
+{'object': [], 'subject': ['DU', 'Ambedkar University']}
+{'object': ['Afzal Guru'], 'subject': []}
+{'object': [], 'subject': ['Mr Vemula']}
+{'object': [], 'subject': ['Parliament Street police station']}
+{'object': [],
+ 'subject': ['JNUSU',
+             'vice president',
+             'Shehla Rashid Shora',
+             'Syed Qasim Ilyas',
+             'Delhi High Court']}
+{'object': ['Delhi High Court', 'Kanhaiya Kumar'], 'subject': []}
+{'object': [], 'subject': ['Jawaharlal Nehru University']}
+{'object': ['Jawaharlal Nehru University'], 'subject': ['CPI', 'Brinda Karat']}
+{'object': ['student Umar Khalid', 'Kulsum Fatima'],
+ 'subject': ['Kulsum Fatima']}
+{'object': ['Saroornagar'], 'subject': ['Hyderabad', 'Janardhan Goud']}
+{'object': ['FIR'], 'subject': ['JNU', 'Kanhaiya Kumar', 'Umar Khalid']}
+{'object': [], 'subject': ['Delhi']}
+{'object': ['Congress',
+            'vice president',
+            'Rahul Gandhi',
+            'Delhi Chief Minister Arvind Kejriwal',
+            'General Secretary Sitaram Yechury'],
+ 'subject': []}
+{'object': [], 'subject': ['Delhi Police']}
+{'object': ['president', 'Kanhaiya Kumar', 'Delhi Police', 'JNU'],
+ 'subject': ['Inspector S Lingaiah']}
+{'object': ['Delhi'], 'subject': []}
+{'object': [],
+ 'subject': ['Congress',
+             'Anand Sharma',
+             'Ajay Maken',
+             'KC Tyagi',
+             'president',
+             'research scholar']}
+{'object': ['Umar Khalid'], 'subject': []}

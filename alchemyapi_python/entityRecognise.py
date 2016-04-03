@@ -50,17 +50,22 @@ class ArticleHandler(xml.sax.ContentHandler):
 
 
 def extract_entities(content):
-	response = alchemyapi.entities('text', contentClean, {'sentiment': 1})
+	response = alchemyapi.entities('text', content,{'sentiment':1,'keywords':1,'entities':1,'requireEntities':1})
+	entity_list = []
 	if response['status'] == 'OK':
-		print('## Entities ##')
+		#print('## Entities ##')
 		for entity in response['entities']:
-			print('text: ', entity['text'].encode('utf-8'))
-			print('type: ', entity['type'])
-			print('relevance: ', entity['relevance'])
-			print('sentiment: ', entity['sentiment']['type'])
-			if 'score' in entity['sentiment']:
-				print('sentiment score: ' + entity['sentiment']['score'])
-				print('') 
+			word=entity['text'].encode('utf-8')
+			#print('text: ', entity['text'].encode('utf-8'))
+			if word not in entity_list:
+				entity_list.append(word)
+			#print('type: ', entity['type'])
+			#print('relevance: ', entity['relevance'])
+			#print('sentiment: ', entity['sentiment']['type'])
+			#if 'score' in entity['sentiment']:
+			#	print('sentiment score: ' + entity['sentiment']['score'])
+			#	print('')
+		return entity_list 
 
 def extract_relations(content):
 	response = alchemyapi.relations('text', content,{'sentiment':1,'keywords':1,'entities':1,'requireEntities':1})
@@ -119,15 +124,19 @@ def main(sourceFileName):
 	source = open(sourceFileName)
 	xml.sax.parse(source, ArticleHandler())
 	i=0
+
 	for content in body:
 		titleClean = remove_non_ascii(title[i])
 		#print("****************************************************")
 		#print(titleClean)
 		i+=1
 		contentClean = remove_non_ascii(content)
-		#extract_entities(contentClean)
-		extract_relations(contentClean)
-		return
+		entities=extract_entities(contentClean)
+		for item in entities:
+			print(item+",",end="")
+		print(end="\n")	
+		#extract_relations(contentClean)
+		
 		
 		
 if __name__ == "__main__":
