@@ -1,0 +1,2369 @@
+{
+    "status": "OK", 
+    "totalTransactions": "4", 
+    "language": "english", 
+    "url": "", 
+    "relations": [
+        {
+            "action": {
+                "text": "taking", 
+                "verb": {
+                    "text": "take", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "take"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Jawaharlal Nehru University"
+                    }
+                ], 
+                "text": "the Jawaharlal Nehru University issue", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "twists"
+                    }
+                ], 
+                "text": "several twists", 
+                "sentiment": {
+                    "score": "0.321941", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " With the Jawaharlal Nehru University issue taking several twists and turns, The Hindu takes a look at how the issue started and where."
+        }, 
+        {
+            "action": {
+                "text": "takes", 
+                "verb": {
+                    "text": "take", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "take"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Hindu"
+                    }
+                ], 
+                "text": "The Hindu", 
+                "entities": [
+                    {
+                        "text": "The Hindu", 
+                        "type": "PrintMedia", 
+                        "disambiguated": {
+                            "website": "http://thehindu.com/", 
+                            "yago": "http://yago-knowledge.org/resource/The_Hindu", 
+                            "name": "The Hindu", 
+                            "freebase": "http://rdf.freebase.com/ns/m.01g_fj", 
+                            "subType": [
+                                "Newspaper"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/The_Hindu"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "look"
+                    }, 
+                    {
+                        "text": "issue"
+                    }
+                ], 
+                "text": "a look at how the issue started", 
+                "sentiment": {
+                    "score": "0.524221", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " With the Jawaharlal Nehru University issue taking several twists and turns, The Hindu takes a look at how the issue started and where."
+        }, 
+        {
+            "action": {
+                "text": "organised", 
+                "verb": {
+                    "text": "organise", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "organise"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Jawaharlal Nehru University"
+                    }
+                ], 
+                "text": "students from the Jawaharlal Nehru University", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "convict Afzal Guru"
+                    }
+                ], 
+                "text": "an event on Parliament attack convict Afzal Guru who was hanged in 2013", 
+                "sentiment": {
+                    "score": "-0.326939", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Afzal Guru", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "freebase": "http://rdf.freebase.com/ns/m.07bpgz", 
+                            "dbpedia": "http://dbpedia.org/resource/Afzal_Guru", 
+                            "name": "Afzal Guru"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " Earlier, students from the Jawaharlal Nehru University organised an event on Parliament attack convict Afzal Guru who was hanged in 2013."
+        }, 
+        {
+            "action": {
+                "text": "was hanged", 
+                "verb": {
+                    "text": "hang", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be hang"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Afzal Guru"
+                    }
+                ], 
+                "text": "Afzal Guru", 
+                "entities": [
+                    {
+                        "text": "Afzal Guru", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "freebase": "http://rdf.freebase.com/ns/m.07bpgz", 
+                            "dbpedia": "http://dbpedia.org/resource/Afzal_Guru", 
+                            "name": "Afzal Guru"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " Earlier, students from the Jawaharlal Nehru University organised an event on Parliament attack convict Afzal Guru who was hanged in 2013."
+        }, 
+        {
+            "action": {
+                "text": "inviting", 
+                "verb": {
+                    "text": "invite", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "invite"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "students"
+                    }
+                ], 
+                "text": "students"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "Maqbool Bhat"
+                    }, 
+                    {
+                        "text": "Afzal Guru"
+                    }, 
+                    {
+                        "text": "Kashmiri migrants"
+                    }, 
+                    {
+                        "text": "judicial killing"
+                    }
+                ], 
+                "text": "to gather for a protest march against judicial killing of Afzal Guru and Maqbool Bhat and in solidarity with the struggle of Kashmiri migrants at the Sabarmati dhaba in the campus", 
+                "entities": [
+                    {
+                        "text": "Afzal Guru", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "freebase": "http://rdf.freebase.com/ns/m.07bpgz", 
+                            "dbpedia": "http://dbpedia.org/resource/Afzal_Guru", 
+                            "name": "Afzal Guru"
+                        }
+                    }, 
+                    {
+                        "text": "Maqbool Bhat", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Maqbool_Bhat", 
+                            "subType": [
+                                "Person"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Maqbool_Bhat", 
+                            "name": "Maqbool Bhat", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0260z7j"
+                        }
+                    }, 
+                    {
+                        "text": "Sabarmati dhaba", 
+                        "type": "GeographicFeature"
+                    }
+                ], 
+                "sentiment": {
+                    "score": "-0.526908", 
+                    "type": "negative"
+                }, 
+                "sentimentFromSubject": {
+                    "score": "0.33851", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " The event organisers had pasted posters across the campus inviting students to gather for a protest march against judicial killing of Afzal Guru and Maqbool Bhat and in solidarity with the struggle of Kashmiri migrants at the Sabarmati dhaba in the campus."
+        }, 
+        {
+            "action": {
+                "text": "was hanged", 
+                "verb": {
+                    "text": "hang", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be hang"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Afzal Guru"
+                    }, 
+                    {
+                        "text": "Parliament attacks"
+                    }, 
+                    {
+                        "text": "mastermind"
+                    }
+                ], 
+                "text": "Afzal Guru, the mastermind behind the Parliament attacks in 2001,", 
+                "sentiment": {
+                    "score": "-0.210712", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Afzal Guru", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "freebase": "http://rdf.freebase.com/ns/m.07bpgz", 
+                            "dbpedia": "http://dbpedia.org/resource/Afzal_Guru", 
+                            "name": "Afzal Guru"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " Afzal Guru, the mastermind behind the Parliament attacks in 2001, was hanged in 2013."
+        }, 
+        {
+            "action": {
+                "text": "was", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Maqbool Bhatt"
+                    }, 
+                    {
+                        "text": "Afzal Guru"
+                    }, 
+                    {
+                        "text": "judicial killing"
+                    }, 
+                    {
+                        "text": "post office"
+                    }
+                ], 
+                "text": "The programme called A country without a post office against the judicial killing of Afzal Guru and Maqbool Bhatt,", 
+                "sentiment": {
+                    "score": "-0.469213", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Afzal Guru", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "freebase": "http://rdf.freebase.com/ns/m.07bpgz", 
+                            "dbpedia": "http://dbpedia.org/resource/Afzal_Guru", 
+                            "name": "Afzal Guru"
+                        }
+                    }, 
+                    {
+                        "text": "Maqbool Bhatt", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "protest"
+                    }, 
+                    {
+                        "text": "poetry"
+                    }, 
+                    {
+                        "text": "art"
+                    }, 
+                    {
+                        "text": "music"
+                    }
+                ], 
+                "text": "supposed to showcase the protest through poetry, art and music", 
+                "sentiment": {
+                    "score": "-0.362043", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " The programme called A country without a post office against the judicial killing of Afzal Guru and Maqbool Bhatt, was supposed to showcase the protest through poetry, art and music."
+        }, 
+        {
+            "action": {
+                "text": "said", 
+                "verb": {
+                    "text": "say", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "say"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Afzal Guru"
+                    }, 
+                    {
+                        "text": "death anniversary"
+                    }, 
+                    {
+                        "text": "students"
+                    }, 
+                    {
+                        "text": "committee"
+                    }
+                ], 
+                "text": "The students who were part of the committee that organised an event to mark the death anniversary of Afzal Guru", 
+                "sentiment": {
+                    "score": "-0.350149", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Afzal Guru", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "freebase": "http://rdf.freebase.com/ns/m.07bpgz", 
+                            "dbpedia": "http://dbpedia.org/resource/Afzal_Guru", 
+                            "name": "Afzal Guru"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "slogans"
+                    }, 
+                    {
+                        "text": "group"
+                    }
+                ], 
+                "text": "that none of them were part of the group that was shouting slogans", 
+                "sentiment": {
+                    "score": "-0.697943", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " The students who were part of the committee that organised an event to mark the death anniversary of Afzal Guru said that none of them were part of the group that was shouting slogans."
+        }, 
+        {
+            "action": {
+                "text": "told", 
+                "verb": {
+                    "text": "tell", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "tell"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "student"
+                    }, 
+                    {
+                        "text": "event"
+                    }, 
+                    {
+                        "text": "committee"
+                    }
+                ], 
+                "text": "A student who was a part of the event organising committee,"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "cultural evening"
+                    }, 
+                    {
+                        "text": "Supreme Court"
+                    }, 
+                    {
+                        "text": "programme"
+                    }, 
+                    {
+                        "text": "working"
+                    }
+                ], 
+                "text": "The programme was a cultural evening organised to question the working of the Supreme Court", 
+                "entities": [
+                    {
+                        "text": "Supreme Court", 
+                        "type": "Organization"
+                    }
+                ], 
+                "sentimentFromSubject": {
+                    "score": "-0.210328", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " A student who was a part of the event organising committee, told The Hindu: The programme was a cultural evening organised to question the working of the Supreme Court."
+        }, 
+        {
+            "action": {
+                "text": "organised to question", 
+                "verb": {
+                    "text": "question", 
+                    "tense": "future"
+                }, 
+                "lemmatized": "organise to question"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "programme"
+                    }
+                ], 
+                "text": "The programme"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "Supreme Court"
+                    }, 
+                    {
+                        "text": "working"
+                    }
+                ], 
+                "text": "the working of the Supreme Court", 
+                "sentiment": {
+                    "score": "-0.298673", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Supreme Court", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "sentence": " A student who was a part of the event organising committee, told The Hindu: The programme was a cultural evening organised to question the working of the Supreme Court."
+        }, 
+        {
+            "action": {
+                "text": "was lodged", 
+                "verb": {
+                    "text": "lodge", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be lodge"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "unknown students"
+                    }, 
+                    {
+                        "text": "sedition"
+                    }, 
+                    {
+                        "text": "case"
+                    }
+                ], 
+                "text": "A case of sedition against several unknown students", 
+                "sentiment": {
+                    "score": "-0.498042", 
+                    "type": "negative"
+                }
+            }, 
+            "location": {
+                "text": "at Vasant Kunj (North) police station", 
+                "entities": [
+                    {
+                        "text": "Vasant Kunj", 
+                        "type": "Facility"
+                    }
+                ]
+            }, 
+            "sentence": " A case of sedition against several unknown students was lodged at Vasant Kunj (North) police station."
+        }, 
+        {
+            "action": {
+                "text": "was", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "president Kanhaiya Kumar"
+                    }, 
+                    {
+                        "text": "JNU"
+                    }
+                ], 
+                "text": "JNU Students Union president Kanhaiya Kumar", 
+                "entities": [
+                    {
+                        "text": "JNU Students Union", 
+                        "type": "Organization"
+                    }, 
+                    {
+                        "text": "president", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "sedition charges"
+                    }
+                ], 
+                "text": "arrested on sedition charges", 
+                "sentiment": {
+                    "score": "-0.647208", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " JNU Students Union president Kanhaiya Kumar was arrested on sedition charges after allegations of anti-national sloganeering against him surfaced."
+        }, 
+        {
+            "action": {
+                "text": "was arrested", 
+                "verb": {
+                    "text": "arrest", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be arrest"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "president Kanhaiya Kumar"
+                    }, 
+                    {
+                        "text": "JNU"
+                    }
+                ], 
+                "text": "JNU Students Union president Kanhaiya Kumar", 
+                "entities": [
+                    {
+                        "text": "JNU Students Union", 
+                        "type": "Organization"
+                    }, 
+                    {
+                        "text": "president", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "sedition charges"
+                    }
+                ], 
+                "text": "on sedition charges", 
+                "sentiment": {
+                    "score": "-0.661792", 
+                    "type": "negative"
+                }, 
+                "sentimentFromSubject": {
+                    "score": "-0.316798", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " JNU Students Union president Kanhaiya Kumar was arrested on sedition charges after allegations of anti-national sloganeering against him surfaced."
+        }, 
+        {
+            "action": {
+                "text": "did", 
+                "verb": {
+                    "text": "do", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "do"
+            }, 
+            "subject": {
+                "text": "Why", 
+                "sentiment": {
+                    "score": "-0.569824", 
+                    "type": "negative"
+                }
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "police"
+                    }, 
+                    {
+                        "text": "action"
+                    }
+                ], 
+                "text": "the police take action", 
+                "sentiment": {
+                    "score": "0.252245", 
+                    "type": "positive"
+                }, 
+                "entities": [
+                    {
+                        "text": "Delhi Police", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "sentence": " Why did the police take action?"
+        }, 
+        {
+            "action": {
+                "text": "struck", 
+                "verb": {
+                    "text": "strike", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "strike"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "police"
+                    }
+                ], 
+                "text": "The police", 
+                "entities": [
+                    {
+                        "text": "Delhi Police", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "sentence": " The police struck after videos of the alleged protest went viral."
+        }, 
+        {
+            "action": {
+                "text": "released", 
+                "verb": {
+                    "text": "release", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "release"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Minister Rajnath Singh"
+                    }
+                ], 
+                "text": "Home Minister Rajnath Singh", 
+                "sentiment": {
+                    "score": "0.655349", 
+                    "type": "positive"
+                }, 
+                "entities": [
+                    {
+                        "text": "Kedar Nath Singh", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Rajnath_Singh", 
+                            "subType": [
+                                "Person", 
+                                "Politician"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Rajnath_Singh", 
+                            "name": "Rajnath Singh", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0279wtw"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "anti-India slogans"
+                    }, 
+                    {
+                        "text": "countrys unity"
+                    }, 
+                    {
+                        "text": "integrity"
+                    }, 
+                    {
+                        "text": "statement"
+                    }
+                ], 
+                "text": "a statement: If anyone raises anti-India slogans, tries to raise questions on the countrys unity and integrity, they will not be spared", 
+                "sentiment": {
+                    "score": "-0.249995", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " Home Minister Rajnath Singh talked to Delhi Police Commissioner B.S. Bassi and released a statement: If anyone raises anti-India slogans, tries to raise questions on the countrys unity and integrity, they will not be spared."
+        }, 
+        {
+            "action": {
+                "text": "gave", 
+                "verb": {
+                    "text": "give", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "give"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }, 
+                    {
+                        "text": "Students"
+                    }
+                ], 
+                "text": "Students of JNU", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Degree"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "shutdown"
+                    }
+                ], 
+                "text": "a shutdown call", 
+                "sentiment": {
+                    "score": "-0.686973", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " Students of JNU gave a shutdown call, saying that they will not allow classes to be held on the campus till students union president Kanhaiya Kumar is released."
+        }, 
+        {
+            "action": {
+                "text": "saying", 
+                "verb": {
+                    "text": "say", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "say"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }, 
+                    {
+                        "text": "Students"
+                    }
+                ], 
+                "text": "Students of JNU", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Degree"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "president Kanhaiya Kumar"
+                    }
+                ], 
+                "text": "that they will not allow classes to be held on the campus till students union president Kanhaiya Kumar is released", 
+                "entities": [
+                    {
+                        "text": "president", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }
+                ], 
+                "sentimentFromSubject": {
+                    "score": "-0.326794", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " Students of JNU gave a shutdown call, saying that they will not allow classes to be held on the campus till students union president Kanhaiya Kumar is released."
+        }, 
+        {
+            "action": {
+                "text": "allow", 
+                "verb": {
+                    "text": "allow", 
+                    "tense": "future", 
+                    "negated": "1"
+                }, 
+                "lemmatized": "allow"
+            }, 
+            "subject": {
+                "text": "they"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "president Kanhaiya Kumar"
+                    }
+                ], 
+                "text": "classes to be held on the campus till students union president Kanhaiya Kumar is released", 
+                "entities": [
+                    {
+                        "text": "president", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "sentence": " Students of JNU gave a shutdown call, saying that they will not allow classes to be held on the campus till students union president Kanhaiya Kumar is released."
+        }, 
+        {
+            "action": {
+                "text": "joined", 
+                "verb": {
+                    "text": "join", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "join"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }
+                ], 
+                "text": "JNU", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "students"
+                    }
+                ], 
+                "text": "the students"
+            }, 
+            "sentence": " JNU teachers too, joined the students in boycotting classes and said they would take classes on nationalism in the varsity lawns."
+        }, 
+        {
+            "action": {
+                "text": "said", 
+                "verb": {
+                    "text": "say", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "say"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }
+                ], 
+                "text": "JNU", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "varsity lawns"
+                    }, 
+                    {
+                        "text": "nationalism"
+                    }, 
+                    {
+                        "text": "classes"
+                    }
+                ], 
+                "text": "they would take classes on nationalism in the varsity lawns"
+            }, 
+            "sentence": " JNU teachers too, joined the students in boycotting classes and said they would take classes on nationalism in the varsity lawns."
+        }, 
+        {
+            "action": {
+                "text": "guard", 
+                "verb": {
+                    "text": "guard", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "guard"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Police personnel"
+                    }
+                ], 
+                "text": "Police personnel", 
+                "entities": [
+                    {
+                        "text": "Delhi Police", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }, 
+                    {
+                        "text": "entrance"
+                    }
+                ], 
+                "text": "the entrance of JNU", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "City"
+                    }
+                ]
+            }, 
+            "sentence": " Police personnel guard the entrance of JNU."
+        }, 
+        {
+            "action": {
+                "text": "alleged", 
+                "verb": {
+                    "text": "allege", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "allege"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Rajnath Singh"
+                    }
+                ], 
+                "text": "Rajnath Singh", 
+                "entities": [
+                    {
+                        "text": "Kedar Nath Singh", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Rajnath_Singh", 
+                            "subType": [
+                                "Person", 
+                                "Politician"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Rajnath_Singh", 
+                            "name": "Rajnath Singh", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0279wtw"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "chief Hafiz Saeed"
+                    }, 
+                    {
+                        "text": "JNU students"
+                    }, 
+                    {
+                        "text": "JuD"
+                    }, 
+                    {
+                        "text": "backing"
+                    }
+                ], 
+                "text": "that JNU students had the backing of Jamaat-ud-Dawah (JuD) chief Hafiz Saeed", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }, 
+                    {
+                        "text": "Hafiz Saeed", 
+                        "type": "Person"
+                    }
+                ], 
+                "sentimentFromSubject": {
+                    "score": "-0.629773", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " Rajnath Singh alleged that JNU students had the backing of Jamaat-ud-Dawah (JuD) chief Hafiz Saeed."
+        }, 
+        {
+            "action": {
+                "text": "was", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "statement"
+                    }
+                ], 
+                "text": "his statement"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "unverified Twitter account"
+                    }, 
+                    {
+                        "text": "fake tweet"
+                    }
+                ], 
+                "text": "based fake tweet from an unverified Twitter account", 
+                "sentiment": {
+                    "score": "-0.678532", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Twitter", 
+                        "type": "Company", 
+                        "disambiguated": {
+                            "website": "http://twitter.com/", 
+                            "subType": [
+                                "Website", 
+                                "Organization", 
+                                "Company", 
+                                "VentureFundedCompany"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Twitter", 
+                            "name": "Twitter", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0289n8t"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " But, his statement was based fake tweet from an unverified Twitter account."
+        }, 
+        {
+            "action": {
+                "text": "was based", 
+                "verb": {
+                    "text": "base", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be base"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "statement"
+                    }
+                ], 
+                "text": "his statement"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "unverified Twitter account"
+                    }, 
+                    {
+                        "text": "fake tweet"
+                    }
+                ], 
+                "text": "fake tweet from an unverified Twitter account", 
+                "sentiment": {
+                    "score": "-0.682625", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Twitter", 
+                        "type": "Company", 
+                        "disambiguated": {
+                            "website": "http://twitter.com/", 
+                            "subType": [
+                                "Website", 
+                                "Organization", 
+                                "Company", 
+                                "VentureFundedCompany"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Twitter", 
+                            "name": "Twitter", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0289n8t"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " But, his statement was based fake tweet from an unverified Twitter account."
+        }, 
+        {
+            "action": {
+                "text": "considering", 
+                "verb": {
+                    "text": "consider", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "consider"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "social media"
+                    }
+                ], 
+                "text": "many on the social media", 
+                "entities": [
+                    {
+                        "text": "social media", 
+                        "type": "FieldTerminology"
+                    }
+                ]
+            }, 
+            "object": {
+                "text": "it"
+            }, 
+            "sentence": " The account has posted funny messages in the past, with many on the social media considering it as a parody account."
+        }, 
+        {
+            "action": {
+                "text": "handles", 
+                "verb": {
+                    "text": "handle", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "handle"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "senior officer"
+                    }
+                ], 
+                "text": "a senior officer", 
+                "entities": [
+                    {
+                        "text": "officer", 
+                        "type": "JobTitle"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "Delhi Police Twitter"
+                    }
+                ], 
+                "text": "the Delhi Police Twitter", 
+                "entities": [
+                    {
+                        "text": "Delhi", 
+                        "type": "City"
+                    }
+                ], 
+                "sentimentFromSubject": {
+                    "score": "0.419437", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " When contacted, a senior officer who handles the Delhi Police Twitter account said, What proof is there that it was a parody account?"
+        }, 
+        {
+            "action": {
+                "text": "said", 
+                "verb": {
+                    "text": "say", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "say"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Delhi Police Twitter"
+                    }, 
+                    {
+                        "text": "senior officer"
+                    }, 
+                    {
+                        "text": "account"
+                    }
+                ], 
+                "text": "a senior officer who handles the Delhi Police Twitter account", 
+                "sentiment": {
+                    "score": "0.666506", 
+                    "type": "positive"
+                }, 
+                "entities": [
+                    {
+                        "text": "officer", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Delhi", 
+                        "type": "City"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "parody account"
+                    }, 
+                    {
+                        "text": "proof"
+                    }
+                ], 
+                "text": "What proof is there that it was a parody account", 
+                "sentiment": {
+                    "score": "-0.723774", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " When contacted, a senior officer who handles the Delhi Police Twitter account said, What proof is there that it was a parody account?"
+        }, 
+        {
+            "action": {
+                "text": "to red-flag", 
+                "verb": {
+                    "text": "red-flag", 
+                    "tense": "future"
+                }, 
+                "lemmatized": "to red-flag"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "domain"
+                    }
+                ], 
+                "text": "Our domain"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "incendiary content"
+                    }, 
+                    {
+                        "text": "social media"
+                    }
+                ], 
+                "text": "any incendiary content on social media", 
+                "sentiment": {
+                    "score": "0.41533", 
+                    "type": "positive"
+                }, 
+                "entities": [
+                    {
+                        "text": "social media", 
+                        "type": "FieldTerminology"
+                    }
+                ]
+            }, 
+            "sentence": " Our domain is not to check parody accounts but to red-flag any incendiary content on social media."
+        }, 
+        {
+            "action": {
+                "text": "attacked", 
+                "verb": {
+                    "text": "attack", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "attack"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Journalists"
+                    }, 
+                    {
+                        "text": "activists"
+                    }
+                ], 
+                "text": "Journalists, activists"
+            }, 
+            "location": {
+                "text": "in front of Patiala Court", 
+                "entities": [
+                    {
+                        "text": "Supreme Court", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "sentence": " Journalists, activists attacked in front of Patiala Court"
+        }, 
+        {
+            "action": {
+                "text": "gets assaulted", 
+                "verb": {
+                    "text": "assault", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "get assault"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "student"
+                    }
+                ], 
+                "text": "A student"
+            }, 
+            "location": {
+                "text": "at the Patiala House court complex", 
+                "entities": [
+                    {
+                        "text": "Patiala House court", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "sentence": " A student gets assaulted at the Patiala House court complex on February 15."
+        }, 
+        {
+            "action": {
+                "text": "witnessed", 
+                "verb": {
+                    "text": "witness", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "witness"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Patiala House courts"
+                    }
+                ], 
+                "text": "the Patiala House courts", 
+                "entities": [
+                    {
+                        "text": "Patiala House Courts", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "violence"
+                    }
+                ], 
+                "text": "violence", 
+                "sentiment": {
+                    "score": "-0.430482", 
+                    "type": "negative"
+                }, 
+                "sentimentFromSubject": {
+                    "score": "-0.35269", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " On February 14, the Patiala House courts witnessed violence as a mob, wearing lawyers robe, slapped and kicked supporters of Kanhaiya Kumar."
+        }, 
+        {
+            "action": {
+                "text": "slapped and kicked", 
+                "verb": {
+                    "text": "kick", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "slap and kick"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Patiala House courts"
+                    }
+                ], 
+                "text": "the Patiala House courts", 
+                "entities": [
+                    {
+                        "text": "Patiala House Courts", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "supporters"
+                    }
+                ], 
+                "text": "supporters", 
+                "sentimentFromSubject": {
+                    "score": "-0.779537", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " On February 14, the Patiala House courts witnessed violence as a mob, wearing lawyers robe, slapped and kicked supporters of Kanhaiya Kumar."
+        }, 
+        {
+            "action": {
+                "text": "was", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr. Kumar"
+                    }
+                ], 
+                "text": "Mr. Kumar", 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "sentence": " The attacks began when Mr. Kumar was scheduled to appear before metropolitan magistrate Loveleen and continued for about 45 minutes during which whoever ran into the mob looking young and carrying a mobile was slapped, kicked and chased away from the premises."
+        }, 
+        {
+            "action": {
+                "text": "scheduled", 
+                "verb": {
+                    "text": "schedule", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "schedule"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr. Kumar"
+                    }
+                ], 
+                "text": "Mr. Kumar", 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "metropolitan magistrate Loveleen"
+                    }, 
+                    {
+                        "text": "mob"
+                    }, 
+                    {
+                        "text": "45 minutes"
+                    }, 
+                    {
+                        "text": "mobile"
+                    }
+                ], 
+                "text": "to appear before metropolitan magistrate Loveleen and continued for about 45 minutes during which whoever ran into the mob looking young and carrying a mobile was slapped", 
+                "entities": [
+                    {
+                        "text": "Loveleen", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "45 minutes", 
+                        "type": "Quantity"
+                    }
+                ], 
+                "sentiment": {
+                    "score": "-0.648541", 
+                    "type": "negative"
+                }, 
+                "sentimentFromSubject": {
+                    "score": "-0.279505", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " The attacks began when Mr. Kumar was scheduled to appear before metropolitan magistrate Loveleen and continued for about 45 minutes during which whoever ran into the mob looking young and carrying a mobile was slapped, kicked and chased away from the premises."
+        }, 
+        {
+            "action": {
+                "text": "was", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "BJP MLA O.P."
+                    }, 
+                    {
+                        "text": "Sharma"
+                    }
+                ], 
+                "text": "The BJP MLA O.P. Sharma", 
+                "entities": [
+                    {
+                        "text": "BJP", 
+                        "type": "Organization"
+                    }, 
+                    {
+                        "text": "O.P. Sharma", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "sentence": " The BJP MLA O.P. Sharma who was also in Patiala House Courts during the scuffle, got embroiled in the controversy when a video of him started surfacing."
+        }, 
+        {
+            "action": {
+                "text": "got", 
+                "verb": {
+                    "text": "get", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "get"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "BJP MLA O.P."
+                    }, 
+                    {
+                        "text": "Patiala House Courts"
+                    }, 
+                    {
+                        "text": "scuffle"
+                    }, 
+                    {
+                        "text": "Sharma"
+                    }
+                ], 
+                "text": "The BJP MLA O.P. Sharma who was also in Patiala House Courts during the scuffle,", 
+                "sentiment": {
+                    "score": "-0.423432", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "BJP", 
+                        "type": "Organization"
+                    }, 
+                    {
+                        "text": "O.P. Sharma", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Patiala House Courts", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "controversy"
+                    }
+                ], 
+                "text": "embroiled in the controversy", 
+                "sentiment": {
+                    "score": "-0.726328", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " The BJP MLA O.P. Sharma who was also in Patiala House Courts during the scuffle, got embroiled in the controversy when a video of him started surfacing."
+        }, 
+        {
+            "action": {
+                "text": "got embroiled", 
+                "verb": {
+                    "text": "embroil", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "get embroil"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "BJP MLA O.P."
+                    }, 
+                    {
+                        "text": "Patiala House Courts"
+                    }, 
+                    {
+                        "text": "Sharma"
+                    }
+                ], 
+                "text": "The BJP MLA O.P. Sharma who was also in Patiala House Courts", 
+                "entities": [
+                    {
+                        "text": "BJP", 
+                        "type": "Organization"
+                    }, 
+                    {
+                        "text": "O.P. Sharma", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Patiala House Courts", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "controversy"
+                    }
+                ], 
+                "text": "in the controversy", 
+                "sentimentFromSubject": {
+                    "score": "-0.753454", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " The BJP MLA O.P. Sharma who was also in Patiala House Courts during the scuffle, got embroiled in the controversy when a video of him started surfacing."
+        }, 
+        {
+            "action": {
+                "text": "showed", 
+                "verb": {
+                    "text": "show", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "show"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "video"
+                    }
+                ], 
+                "text": "The video"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "courts gate number"
+                    }, 
+                    {
+                        "text": "CPI worker"
+                    }, 
+                    {
+                        "text": "Mr. Sharma"
+                    }
+                ], 
+                "text": "Mr. Sharma beating up a CPI worker outside the courts gate number 4", 
+                "entities": [
+                    {
+                        "text": "O.P. Sharma", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "sentence": " The video showed Mr. Sharma beating up a CPI worker outside the courts gate number 4."
+        }, 
+        {
+            "action": {
+                "text": "beating", 
+                "verb": {
+                    "text": "beat", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "beat"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr. Sharma"
+                    }
+                ], 
+                "text": "Mr. Sharma", 
+                "entities": [
+                    {
+                        "text": "O.P. Sharma", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "CPI worker"
+                    }, 
+                    {
+                        "text": "courts gate number"
+                    }
+                ], 
+                "text": "a CPI worker outside the courts gate number", 
+                "sentimentFromSubject": {
+                    "score": "0.309222", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " The video showed Mr. Sharma beating up a CPI worker outside the courts gate number 4."
+        }, 
+        {
+            "action": {
+                "text": "was", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "text": "I"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "pro-Pakistan slogans"
+                    }, 
+                    {
+                        "text": "court"
+                    }, 
+                    {
+                        "text": "man"
+                    }
+                ], 
+                "text": "leaving the court I saw a man raising anti-India and pro-Pakistan slogans", 
+                "sentiment": {
+                    "score": "-0.416371", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Supreme Court", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "sentence": " As I was leaving the court I saw a man raising anti-India and pro-Pakistan slogans."
+        }, 
+        {
+            "action": {
+                "text": "know", 
+                "verb": {
+                    "text": "know", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "know"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr Sharma"
+                    }
+                ], 
+                "text": "Mr Sharma", 
+                "entities": [
+                    {
+                        "text": "Mr Sharma", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "text": "what he was hit with"
+            }, 
+            "sentence": " Mr Sharma doesnt know what he was hit with, but the people around him got offended seeing the MLA being attacked and started beating up the attacker, read anti-national."
+        }, 
+        {
+            "action": {
+                "text": "is", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }
+                ], 
+                "text": "JNU", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "ideology"
+                    }, 
+                    {
+                        "text": "kind"
+                    }
+                ], 
+                "text": "promoting this kind of ideology", 
+                "sentiment": {
+                    "score": "0.458882", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " And JNU is promoting this kind of ideology and producing anti-nationals."
+        }, 
+        {
+            "action": {
+                "text": "is promoting", 
+                "verb": {
+                    "text": "promote", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "be promote"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }
+                ], 
+                "text": "JNU", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "ideology"
+                    }, 
+                    {
+                        "text": "kind"
+                    }
+                ], 
+                "text": "this kind of ideology", 
+                "sentimentFromSubject": {
+                    "score": "0.541396", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " And JNU is promoting this kind of ideology and producing anti-nationals."
+        }, 
+        {
+            "action": {
+                "text": "be", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "future"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }
+                ], 
+                "text": "JNU", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "text": "sealed"
+            }, 
+            "sentence": " JNU should be sealed, Mr. Sharma said."
+        }, 
+        {
+            "action": {
+                "text": "said", 
+                "verb": {
+                    "text": "say", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "say"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr. Sharma"
+                    }
+                ], 
+                "text": "Mr. Sharma", 
+                "entities": [
+                    {
+                        "text": "O.P. Sharma", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "JNU"
+                    }
+                ], 
+                "text": "JNU should be sealed", 
+                "entities": [
+                    {
+                        "text": "Jawaharlal Nehru University", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " JNU should be sealed, Mr. Sharma said."
+        }, 
+        {
+            "action": {
+                "text": "criticised", 
+                "verb": {
+                    "text": "criticise", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "criticise"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "vice-president Rahul Gandhi"
+                    }, 
+                    {
+                        "text": "Congress"
+                    }
+                ], 
+                "text": "Congress vice-president Rahul Gandhi", 
+                "entities": [
+                    {
+                        "text": "Congress", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.aicc.org.in/", 
+                            "yago": "http://yago-knowledge.org/resource/Indian_National_Congress", 
+                            "name": "Indian National Congress", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0135dr", 
+                            "subType": [
+                                "Organization", 
+                                "PoliticalParty"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Indian_National_Congress"
+                        }
+                    }, 
+                    {
+                        "text": "vice-president", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Rahul Gandhi", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Rahul_Gandhi", 
+                            "subType": [
+                                "Person", 
+                                "Politician", 
+                                "OfficeHolder"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Rahul_Gandhi", 
+                            "name": "Rahul Gandhi", 
+                            "freebase": "http://rdf.freebase.com/ns/m.01sd6z"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "BJP government"
+                    }
+                ], 
+                "text": "the BJP government", 
+                "sentiment": {
+                    "score": "-0.329943", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "BJP", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "sentence": " Congress vice-president Rahul Gandhi criticised the BJP government, accusing it of bullying the prestigious institution."
+        }, 
+        {
+            "action": {
+                "text": "called", 
+                "verb": {
+                    "text": "call", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "call"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr. Gandhi"
+                    }
+                ], 
+                "text": "Mr. Gandhi", 
+                "entities": [
+                    {
+                        "text": "Rahul Gandhi", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "location": {
+                "text": "at his residence where he discussed ways to tie up every compelling issue the students are facing in India today and place them in its anti-BJP narrative", 
+                "entities": [
+                    {
+                        "text": "Rahul Gandhi", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Rahul_Gandhi", 
+                            "subType": [
+                                "Person", 
+                                "Politician", 
+                                "OfficeHolder"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Rahul_Gandhi", 
+                            "name": "Rahul Gandhi", 
+                            "freebase": "http://rdf.freebase.com/ns/m.01sd6z"
+                        }
+                    }, 
+                    {
+                        "text": "India", 
+                        "type": "Country", 
+                        "disambiguated": {
+                            "website": "http://india.gov.in/", 
+                            "yago": "http://yago-knowledge.org/resource/India", 
+                            "name": "India", 
+                            "freebase": "http://rdf.freebase.com/ns/m.09c6w", 
+                            "opencyc": "http://sw.opencyc.org/concept/Mx4rvVj7XJwpEbGdrcN5Y29ycA", 
+                            "subType": [
+                                "Location", 
+                                "HumanLanguage", 
+                                "Region", 
+                                "Country", 
+                                "GovernmentalJurisdiction", 
+                                "FilmEditor"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/India", 
+                            "ciaFactbook": "http://www4.wiwiss.fu-berlin.de/factbook/resource/India", 
+                            "geo": "21.0 78.0"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " Soon after visiting the JNU campus Mr. Gandhi called an emergency meeting at his residence where he discussed ways to tie up every compelling issue the students are facing in India today and place them in its anti-BJP narrative."
+        }, 
+        {
+            "action": {
+                "text": "discussed", 
+                "verb": {
+                    "text": "discuss", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "discuss"
+            }, 
+            "subject": {
+                "text": "he", 
+                "entities": [
+                    {
+                        "text": "Rahul Gandhi", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Rahul_Gandhi", 
+                            "subType": [
+                                "Person", 
+                                "Politician", 
+                                "OfficeHolder"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Rahul_Gandhi", 
+                            "name": "Rahul Gandhi", 
+                            "freebase": "http://rdf.freebase.com/ns/m.01sd6z"
+                        }
+                    }
+                ]
+            }, 
+            "location": {
+                "text": "an emergency meeting at his residence", 
+                "sentiment": {
+                    "score": "-0.275335", 
+                    "type": "negative"
+                }
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "compelling issue"
+                    }, 
+                    {
+                        "text": "anti-BJP narrative"
+                    }, 
+                    {
+                        "text": "ways"
+                    }, 
+                    {
+                        "text": "students"
+                    }
+                ], 
+                "text": "ways to tie up every compelling issue the students are facing in India today and place them in its anti-BJP narrative", 
+                "entities": [
+                    {
+                        "text": "India", 
+                        "type": "Country", 
+                        "disambiguated": {
+                            "website": "http://india.gov.in/", 
+                            "yago": "http://yago-knowledge.org/resource/India", 
+                            "name": "India", 
+                            "freebase": "http://rdf.freebase.com/ns/m.09c6w", 
+                            "opencyc": "http://sw.opencyc.org/concept/Mx4rvVj7XJwpEbGdrcN5Y29ycA", 
+                            "subType": [
+                                "Location", 
+                                "HumanLanguage", 
+                                "Region", 
+                                "Country", 
+                                "GovernmentalJurisdiction", 
+                                "FilmEditor"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/India", 
+                            "ciaFactbook": "http://www4.wiwiss.fu-berlin.de/factbook/resource/India", 
+                            "geo": "21.0 78.0"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " Soon after visiting the JNU campus Mr. Gandhi called an emergency meeting at his residence where he discussed ways to tie up every compelling issue the students are facing in India today and place them in its anti-BJP narrative."
+        }, 
+        {
+            "action": {
+                "text": "to tie", 
+                "verb": {
+                    "text": "tie", 
+                    "tense": "future"
+                }, 
+                "lemmatized": "to tie"
+            }, 
+            "subject": {
+                "text": "he", 
+                "entities": [
+                    {
+                        "text": "Rahul Gandhi", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Rahul_Gandhi", 
+                            "subType": [
+                                "Person", 
+                                "Politician", 
+                                "OfficeHolder"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Rahul_Gandhi", 
+                            "name": "Rahul Gandhi", 
+                            "freebase": "http://rdf.freebase.com/ns/m.01sd6z"
+                        }
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "compelling issue"
+                    }, 
+                    {
+                        "text": "students"
+                    }
+                ], 
+                "text": "every compelling issue the students", 
+                "sentiment": {
+                    "score": "0.570089", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " Soon after visiting the JNU campus Mr. Gandhi called an emergency meeting at his residence where he discussed ways to tie up every compelling issue the students are facing in India today and place them in its anti-BJP narrative."
+        }
+    ], 
+    "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html"
+}

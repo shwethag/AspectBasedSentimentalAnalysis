@@ -1,0 +1,1254 @@
+****************************************************
+JNU row: What is the outrage all about? 
+****************************************************
+Make freedom in India: Translated excerpts of Kanhaiya Kumars speech at JNU 
+****************************************************
+Kanhaiya Kumar, we dont need this exhausting diet of shrill from a kid who should be in class 
+****************************************************
+Kanhaiya Kumar Better Patriot Than BJP Leaders: Nitish Kumar
+****************************************************
+Full Speech: Kanhaiya Kumar, Out On Bail, Speaks Of 'Azadi' On JNU Campus
+****************************************************
+Kanhaiya Kumar Returns To JNU With Call For Azaadi: 'Freedom IN India'
+****************************************************
+How BJP Student Wing Reacted To Kanhaiya Kumar, Who Trended Worldwide
+****************************************************
+Timeline: What happened at JNU
+****************************************************
+Kanhaiya And An Electric Moment Close To Midnight At JNU
+****************************************************
+Afzal Guru event: Anti-India slogans at JNU campus; disciplinary enquiry ordered 
+****************************************************
+JNU Students March To Parliament, Demand Repeal Of Sedition Law
+****************************************************
+JNU Row: Rahul Gandhi, Arvind Kejriwal Among 9 Booked For Sedition
+## Object ##
+{
+    "status": "OK", 
+    "totalTransactions": "4", 
+    "language": "english", 
+    "url": "", 
+    "relations": [
+        {
+            "action": {
+                "text": "claiming", 
+                "verb": {
+                    "text": "claim", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "claim"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Hyderabad lawyer"
+                    }
+                ], 
+                "text": "Hyderabad lawyer", 
+                "entities": [
+                    {
+                        "text": "Hyderabad", 
+                        "type": "City"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "political affiliations"
+                    }
+                ], 
+                "text": "no political affiliations", 
+                "sentiment": {
+                    "score": "-0.388302", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " Hyderabad lawyer, claiming no political affiliations, files charges"
+        }, 
+        {
+            "action": {
+                "text": "named", 
+                "verb": {
+                    "text": "name", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "name"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "JNU students Kanhaiya"
+                    }, 
+                    {
+                        "text": "Umar Khalid"
+                    }, 
+                    {
+                        "text": "Kumar"
+                    }
+                ], 
+                "text": "JNU students Kanhaiya Kumar and Umar Khalid", 
+                "entities": [
+                    {
+                        "text": "JNU", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }, 
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "FIR"
+                    }
+                ], 
+                "text": "in FIR", 
+                "entities": [
+                    {
+                        "text": "FIR", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "sentence": " JNU students Kanhaiya Kumar and Umar Khalid also named in FIR"
+        }, 
+        {
+            "action": {
+                "text": "has been registered", 
+                "verb": {
+                    "text": "register", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "have be register"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "sedition"
+                    }
+                ], 
+                "text": "sedition", 
+                "sentiment": {
+                    "score": "-0.388619", 
+                    "type": "negative"
+                }
+            }, 
+            "location": {
+                "text": "in Hyderabad", 
+                "entities": [
+                    {
+                        "text": "Hyderabad", 
+                        "type": "City"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "Minister Arvind Kejriwal"
+                    }, 
+                    {
+                        "text": "president Rahul Gandhi"
+                    }, 
+                    {
+                        "text": "General Secretary Sitaram"
+                    }, 
+                    {
+                        "text": "CPI leader"
+                    }
+                ], 
+                "text": "against Congress vice president Rahul Gandhi, Delhi Chief Minister Arvind Kejriwal, CPI leader D Raja, CPM General Secretary Sitaram Yechury", 
+                "entities": [
+                    {
+                        "text": "Congress", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.aicc.org.in/", 
+                            "yago": "http://yago-knowledge.org/resource/Indian_National_Congress", 
+                            "name": "Indian National Congress", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0135dr", 
+                            "subType": [
+                                "Organization", 
+                                "PoliticalParty"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Indian_National_Congress"
+                        }
+                    }, 
+                    {
+                        "text": "vice president", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Rahul Gandhi", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Rahul_Gandhi", 
+                            "subType": [
+                                "Person", 
+                                "Politician", 
+                                "OfficeHolder"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Rahul_Gandhi", 
+                            "name": "Rahul Gandhi", 
+                            "freebase": "http://rdf.freebase.com/ns/m.01sd6z"
+                        }
+                    }, 
+                    {
+                        "text": "Delhi Chief Minister Arvind Kejriwal", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "General Secretary Sitaram Yechury", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "sentence": " A case of sedition has been registered in Hyderabad against Congress vice president Rahul Gandhi, Delhi Chief Minister Arvind Kejriwal, CPI leader D Raja, CPM General Secretary Sitaram Yechury and five others in connection with the JNU row."
+        }, 
+        {
+            "action": {
+                "text": "claims", 
+                "verb": {
+                    "text": "claim", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "claim"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "local lawyer"
+                    }, 
+                    {
+                        "text": "Janardhan Goud"
+                    }
+                ], 
+                "text": "A local lawyer, Janardhan Goud", 
+                "sentiment": {
+                    "score": "0.280223", 
+                    "type": "positive"
+                }, 
+                "entities": [
+                    {
+                        "text": "Janardhan Goud", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "Saroornagar police station"
+                    }, 
+                    {
+                        "text": "political affiliations"
+                    }, 
+                    {
+                        "text": "complaint"
+                    }, 
+                    {
+                        "text": "court"
+                    }
+                ], 
+                "text": "to not have any political affiliations, filed a complaint in court after which a case was registered in the Saroornagar police station", 
+                "entities": [
+                    {
+                        "text": "Saroornagar", 
+                        "type": "City", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Saroornagar", 
+                            "dbpedia": "http://dbpedia.org/resource/Saroornagar", 
+                            "geo": "17.3561 78.5333", 
+                            "name": "Saroornagar", 
+                            "freebase": "http://rdf.freebase.com/ns/m.028664s"
+                        }
+                    }
+                ], 
+                "sentiment": {
+                    "score": "-0.546043", 
+                    "type": "negative"
+                }, 
+                "sentimentFromSubject": {
+                    "score": "-0.364529", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " A local lawyer, Janardhan Goud, who claims to not have any political affiliations, filed a complaint in court after which a case was registered in the Saroornagar police station."
+        }, 
+        {
+            "action": {
+                "text": "have", 
+                "verb": {
+                    "text": "have", 
+                    "tense": "present", 
+                    "negated": "1"
+                }, 
+                "lemmatized": "have"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "local lawyer"
+                    }, 
+                    {
+                        "text": "Janardhan Goud"
+                    }
+                ], 
+                "text": "A local lawyer, Janardhan Goud", 
+                "sentiment": {
+                    "score": "0.280223", 
+                    "type": "positive"
+                }, 
+                "entities": [
+                    {
+                        "text": "Janardhan Goud", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "political affiliations"
+                    }
+                ], 
+                "text": "any political affiliations"
+            }, 
+            "sentence": " A local lawyer, Janardhan Goud, who claims to not have any political affiliations, filed a complaint in court after which a case was registered in the Saroornagar police station."
+        }, 
+        {
+            "action": {
+                "text": "filed", 
+                "verb": {
+                    "text": "file", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "file"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "local lawyer"
+                    }, 
+                    {
+                        "text": "political affiliations"
+                    }, 
+                    {
+                        "text": "Janardhan Goud"
+                    }
+                ], 
+                "text": "A local lawyer, Janardhan Goud, who claims to not have any political affiliations,", 
+                "entities": [
+                    {
+                        "text": "Janardhan Goud", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "complaint"
+                    }
+                ], 
+                "text": "a complaint", 
+                "sentiment": {
+                    "score": "-0.731472", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " A local lawyer, Janardhan Goud, who claims to not have any political affiliations, filed a complaint in court after which a case was registered in the Saroornagar police station."
+        }, 
+        {
+            "action": {
+                "text": "was registered", 
+                "verb": {
+                    "text": "register", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be register"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "case"
+                    }
+                ], 
+                "text": "a case"
+            }, 
+            "location": {
+                "text": "in the Saroornagar police station", 
+                "sentiment": {
+                    "score": "-0.283436", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Saroornagar", 
+                        "type": "City", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Saroornagar", 
+                            "dbpedia": "http://dbpedia.org/resource/Saroornagar", 
+                            "geo": "17.3561 78.5333", 
+                            "name": "Saroornagar", 
+                            "freebase": "http://rdf.freebase.com/ns/m.028664s"
+                        }
+                    }
+                ]
+            }, 
+            "sentence": " A local lawyer, Janardhan Goud, who claims to not have any political affiliations, filed a complaint in court after which a case was registered in the Saroornagar police station."
+        }, 
+        {
+            "action": {
+                "text": "include", 
+                "verb": {
+                    "text": "include", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "include"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "president Kanhaiya Kumar"
+                    }, 
+                    {
+                        "text": "scholar Umar Khalid"
+                    }, 
+                    {
+                        "text": "leaders Anand Sharma"
+                    }, 
+                    {
+                        "text": "Spokesperson KC Tyagi"
+                    }
+                ], 
+                "text": "Congress leaders Anand Sharma and Ajay Maken, JD(U) Spokesperson KC Tyagi, JNUSU president Kanhaiya Kumar and JNU research scholar Umar Khalid", 
+                "sentiment": {
+                    "score": "0.327267", 
+                    "type": "positive"
+                }, 
+                "entities": [
+                    {
+                        "text": "Congress", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.aicc.org.in/", 
+                            "yago": "http://yago-knowledge.org/resource/Indian_National_Congress", 
+                            "name": "Indian National Congress", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0135dr", 
+                            "subType": [
+                                "Organization", 
+                                "PoliticalParty"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Indian_National_Congress"
+                        }
+                    }, 
+                    {
+                        "text": "Anand Sharma", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Anand_Sharma", 
+                            "subType": [
+                                "Writer"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Anand_Sharma", 
+                            "name": "Anand Sharma", 
+                            "freebase": "http://rdf.freebase.com/ns/m.02w3030"
+                        }
+                    }, 
+                    {
+                        "text": "Ajay Maken", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "website": "http://164.100.24.208/ls/lsmember/biodata.asp?mpsno=4075", 
+                            "yago": "http://yago-knowledge.org/resource/Ajay_Maken", 
+                            "name": "Ajay Maken", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0h06wh", 
+                            "subType": [
+                                "Person", 
+                                "Politician", 
+                                "OfficeHolder"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Ajay_Maken"
+                        }
+                    }, 
+                    {
+                        "text": "KC Tyagi", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "president", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "JNU", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }, 
+                    {
+                        "text": "research scholar", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "Information Report"
+                    }
+                ], 
+                "text": "Others named in the First Information Report"
+            }, 
+            "sentence": " Others named in the First Information Report include Congress leaders Anand Sharma and Ajay Maken, JD(U) Spokesperson KC Tyagi, JNUSU president Kanhaiya Kumar and JNU research scholar Umar Khalid."
+        }, 
+        {
+            "action": {
+                "text": "said", 
+                "verb": {
+                    "text": "say", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "say"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Inspector S Lingaiah"
+                    }
+                ], 
+                "text": "Inspector S Lingaiah", 
+                "entities": [
+                    {
+                        "text": "Inspector S Lingaiah", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "president Kanhaiya Kumar"
+                    }, 
+                    {
+                        "text": "Arvind Kejriwal"
+                    }, 
+                    {
+                        "text": "Rahul Gandhi"
+                    }, 
+                    {
+                        "text": "Sitaram Yechury"
+                    }
+                ], 
+                "text": "Following the court's directive, a case under section 124A of the IPC (sedition) has been registered yesterday against nine persons, including Rahul Gandhi, Arvind Kejriwal, Sitaram Yechury, JNUSU president Kanhaiya Kumar and others", 
+                "entities": [
+                    {
+                        "text": "Rahul Gandhi", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Rahul_Gandhi", 
+                            "subType": [
+                                "Person", 
+                                "Politician", 
+                                "OfficeHolder"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Rahul_Gandhi", 
+                            "name": "Rahul Gandhi", 
+                            "freebase": "http://rdf.freebase.com/ns/m.01sd6z"
+                        }
+                    }, 
+                    {
+                        "text": "Delhi Chief Minister Arvind Kejriwal", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "website": "http://www.parivartan.com/home.asp", 
+                            "yago": "http://yago-knowledge.org/resource/Arvind_Kejriwal", 
+                            "name": "Arvind Kejriwal", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0fww52", 
+                            "subType": [
+                                "Person", 
+                                "AwardWinner"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Arvind_Kejriwal"
+                        }
+                    }, 
+                    {
+                        "text": "General Secretary Sitaram Yechury", 
+                        "type": "Person", 
+                        "disambiguated": {
+                            "yago": "http://yago-knowledge.org/resource/Sitaram_Yechury", 
+                            "subType": [
+                                "Person", 
+                                "Politician", 
+                                "OfficeHolder"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Sitaram_Yechury", 
+                            "name": "Sitaram Yechury", 
+                            "freebase": "http://rdf.freebase.com/ns/m.0f94nz"
+                        }
+                    }, 
+                    {
+                        "text": "president", 
+                        "type": "JobTitle"
+                    }, 
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "sentence": " Following the court's directive, a case under section 124A of the IPC (sedition) has been registered yesterday against nine persons, including Rahul Gandhi, Arvind Kejriwal, Sitaram Yechury, JNUSU president Kanhaiya Kumar and others,\" Inspector S Lingaiah said."
+        }, 
+        {
+            "action": {
+                "text": "said", 
+                "verb": {
+                    "text": "say", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "say"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Goud"
+                    }
+                ], 
+                "text": "Goud", 
+                "entities": [
+                    {
+                        "text": "Janardhan Goud", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "location": {
+                "text": "In his petition"
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "JNU campus"
+                    }, 
+                    {
+                        "text": "Delhi Police"
+                    }, 
+                    {
+                        "text": "Kanhaiya"
+                    }, 
+                    {
+                        "text": "Rahul"
+                    }
+                ], 
+                "text": "Rahul and other leaders, despite being aware that Delhi Police had registered a case against Kanhaiya on charge of sedition had visited JNU campus", 
+                "sentiment": {
+                    "score": "-0.306343", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Rahul Gandhi", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Delhi Police", 
+                        "type": "Organization"
+                    }, 
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "JNU", 
+                        "type": "City"
+                    }
+                ]
+            }, 
+            "sentence": " In his petition, Goud said Rahul and other leaders, despite being aware that Delhi Police had registered a case against Kanhaiya on charge of sedition had visited JNU campus and knowingly supported them and hence it \"amounted to sedition\"."
+        }, 
+        {
+            "action": {
+                "text": "had visited", 
+                "verb": {
+                    "text": "visit", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "have visit"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Delhi Police"
+                    }
+                ], 
+                "text": "Delhi Police", 
+                "entities": [
+                    {
+                        "text": "Delhi Police", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "JNU campus"
+                    }
+                ], 
+                "text": "JNU campus", 
+                "entities": [
+                    {
+                        "text": "JNU", 
+                        "type": "City"
+                    }
+                ]
+            }, 
+            "sentence": " In his petition, Goud said Rahul and other leaders, despite being aware that Delhi Police had registered a case against Kanhaiya on charge of sedition had visited JNU campus and knowingly supported them and hence it \"amounted to sedition\"."
+        }, 
+        {
+            "action": {
+                "text": "supported", 
+                "verb": {
+                    "text": "support", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "support"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Delhi Police"
+                    }
+                ], 
+                "text": "Delhi Police", 
+                "entities": [
+                    {
+                        "text": "Delhi Police", 
+                        "type": "Organization"
+                    }
+                ]
+            }, 
+            "object": {
+                "text": "them", 
+                "entities": [
+                    {
+                        "text": "Delhi Police", 
+                        "type": "Organization"
+                    }
+                ], 
+                "sentimentFromSubject": {
+                    "score": "0.325929", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " In his petition, Goud said Rahul and other leaders, despite being aware that Delhi Police had registered a case against Kanhaiya on charge of sedition had visited JNU campus and knowingly supported them and hence it \"amounted to sedition\"."
+        }, 
+        {
+            "action": {
+                "text": "have", 
+                "verb": {
+                    "text": "have", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "have"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Kanhaiya"
+                    }, 
+                    {
+                        "text": "Khalid"
+                    }
+                ], 
+                "text": "Kanhaiya and Khalid", 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "sedition charge"
+                    }, 
+                    {
+                        "text": "Delhi"
+                    }
+                ], 
+                "text": "earlier been arrested in Delhi on sedition charge", 
+                "sentiment": {
+                    "score": "-0.542096", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Delhi", 
+                        "type": "Country"
+                    }
+                ]
+            }, 
+            "sentence": " Kanhaiya and Khalid, who have earlier been arrested in Delhi on sedition charge, have also been booked again on the same charge."
+        }, 
+        {
+            "action": {
+                "text": "been", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Kanhaiya"
+                    }, 
+                    {
+                        "text": "Khalid"
+                    }
+                ], 
+                "text": "Kanhaiya and Khalid", 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "sedition charge"
+                    }, 
+                    {
+                        "text": "Delhi"
+                    }
+                ], 
+                "text": "arrested in Delhi on sedition charge", 
+                "sentiment": {
+                    "score": "-0.525001", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Delhi", 
+                        "type": "Country"
+                    }
+                ]
+            }, 
+            "sentence": " Kanhaiya and Khalid, who have earlier been arrested in Delhi on sedition charge, have also been booked again on the same charge."
+        }, 
+        {
+            "action": {
+                "text": "arrested", 
+                "verb": {
+                    "text": "arrest", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "arrest"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Kanhaiya"
+                    }, 
+                    {
+                        "text": "Khalid"
+                    }
+                ], 
+                "text": "Kanhaiya and Khalid", 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "location": {
+                "text": "in Delhi on sedition charge", 
+                "sentiment": {
+                    "score": "-0.449911", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Delhi", 
+                        "type": "Country"
+                    }
+                ]
+            }, 
+            "sentence": " Kanhaiya and Khalid, who have earlier been arrested in Delhi on sedition charge, have also been booked again on the same charge."
+        }, 
+        {
+            "action": {
+                "text": "been", 
+                "verb": {
+                    "text": "be", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "be"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "sedition charge"
+                    }, 
+                    {
+                        "text": "Kanhaiya"
+                    }, 
+                    {
+                        "text": "Khalid"
+                    }, 
+                    {
+                        "text": "Delhi"
+                    }
+                ], 
+                "text": "Kanhaiya and Khalid, who have earlier been arrested in Delhi on sedition charge,", 
+                "sentiment": {
+                    "score": "-0.429037", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Delhi", 
+                        "type": "Country"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "charge"
+                    }
+                ], 
+                "text": "booked again on the same charge"
+            }, 
+            "sentence": " Kanhaiya and Khalid, who have earlier been arrested in Delhi on sedition charge, have also been booked again on the same charge."
+        }, 
+        {
+            "action": {
+                "text": "have also been booked", 
+                "verb": {
+                    "text": "book", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "have also be book"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "sedition charge"
+                    }, 
+                    {
+                        "text": "Kanhaiya"
+                    }, 
+                    {
+                        "text": "Khalid"
+                    }, 
+                    {
+                        "text": "Delhi"
+                    }
+                ], 
+                "text": "Kanhaiya and Khalid, who have earlier been arrested in Delhi on sedition charge,", 
+                "sentiment": {
+                    "score": "-0.429037", 
+                    "type": "negative"
+                }, 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Delhi", 
+                        "type": "Country"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "charge"
+                    }
+                ], 
+                "text": "on the same charge"
+            }, 
+            "sentence": " Kanhaiya and Khalid, who have earlier been arrested in Delhi on sedition charge, have also been booked again on the same charge."
+        }, 
+        {
+            "action": {
+                "text": "had", 
+                "verb": {
+                    "text": "have", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "have"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr Goud"
+                    }
+                ], 
+                "text": "Mr Goud", 
+                "entities": [
+                    {
+                        "text": "Janardhan Goud", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "complaint"
+                    }
+                ], 
+                "text": "filed a complaint", 
+                "sentiment": {
+                    "score": "-0.738417", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " Mr Goud had filed a complaint in the court of Metropolitan Magistrate here on Thursday, seeking its direction to police for registration of a case against Kanhaiya and Khalid for allegedly raising anti-India and pro-Afzal Guru slogans on JNU campus and others."
+        }, 
+        {
+            "action": {
+                "text": "had filed", 
+                "verb": {
+                    "text": "file", 
+                    "tense": "past"
+                }, 
+                "lemmatized": "have file"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr Goud"
+                    }
+                ], 
+                "text": "Mr Goud", 
+                "entities": [
+                    {
+                        "text": "Janardhan Goud", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "complaint"
+                    }
+                ], 
+                "text": "a complaint", 
+                "sentiment": {
+                    "score": "-0.731472", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " Mr Goud had filed a complaint in the court of Metropolitan Magistrate here on Thursday, seeking its direction to police for registration of a case against Kanhaiya and Khalid for allegedly raising anti-India and pro-Afzal Guru slogans on JNU campus and others."
+        }, 
+        {
+            "action": {
+                "text": "seeking", 
+                "verb": {
+                    "text": "seek", 
+                    "tense": "present"
+                }, 
+                "lemmatized": "seek"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr Goud"
+                    }
+                ], 
+                "text": "Mr Goud", 
+                "entities": [
+                    {
+                        "text": "Janardhan Goud", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "pro-Afzal Guru slogans"
+                    }, 
+                    {
+                        "text": "JNU campus"
+                    }, 
+                    {
+                        "text": "Kanhaiya"
+                    }, 
+                    {
+                        "text": "Khalid"
+                    }
+                ], 
+                "text": "its direction to police for registration of a case against Kanhaiya and Khalid for allegedly raising anti-India and pro-Afzal Guru slogans on JNU campus and others", 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "JNU", 
+                        "type": "Organization", 
+                        "disambiguated": {
+                            "website": "http://www.jnu.ac.in", 
+                            "yago": "http://yago-knowledge.org/resource/Jawaharlal_Nehru_University", 
+                            "name": "Jawaharlal Nehru University", 
+                            "freebase": "http://rdf.freebase.com/ns/m.056jtl", 
+                            "subType": [
+                                "Location", 
+                                "CollegeUniversity", 
+                                "University"
+                            ], 
+                            "dbpedia": "http://dbpedia.org/resource/Jawaharlal_Nehru_University"
+                        }
+                    }
+                ], 
+                "sentiment": {
+                    "score": "-0.20248", 
+                    "type": "negative"
+                }, 
+                "sentimentFromSubject": {
+                    "score": "0.210899", 
+                    "type": "positive"
+                }
+            }, 
+            "sentence": " Mr Goud had filed a complaint in the court of Metropolitan Magistrate here on Thursday, seeking its direction to police for registration of a case against Kanhaiya and Khalid for allegedly raising anti-India and pro-Afzal Guru slogans on JNU campus and others."
+        }, 
+        {
+            "action": {
+                "text": "to police", 
+                "verb": {
+                    "text": "police", 
+                    "tense": "future"
+                }, 
+                "lemmatized": "to police"
+            }, 
+            "subject": {
+                "keywords": [
+                    {
+                        "text": "Mr Goud"
+                    }
+                ], 
+                "text": "Mr Goud", 
+                "entities": [
+                    {
+                        "text": "Janardhan Goud", 
+                        "type": "Person"
+                    }
+                ]
+            }, 
+            "object": {
+                "keywords": [
+                    {
+                        "text": "Kanhaiya"
+                    }, 
+                    {
+                        "text": "Khalid"
+                    }, 
+                    {
+                        "text": "registration"
+                    }, 
+                    {
+                        "text": "case"
+                    }
+                ], 
+                "text": "for registration of a case against Kanhaiya and Khalid", 
+                "entities": [
+                    {
+                        "text": "Kanhaiya Kumar", 
+                        "type": "Person"
+                    }, 
+                    {
+                        "text": "Umar Khalid", 
+                        "type": "Person"
+                    }
+                ], 
+                "sentiment": {
+                    "score": "-0.410809", 
+                    "type": "negative"
+                }, 
+                "sentimentFromSubject": {
+                    "score": "-0.301607", 
+                    "type": "negative"
+                }
+            }, 
+            "sentence": " Mr Goud had filed a complaint in the court of Metropolitan Magistrate here on Thursday, seeking its direction to police for registration of a case against Kanhaiya and Khalid for allegedly raising anti-India and pro-Afzal Guru slogans on JNU campus and others."
+        }
+    ], 
+    "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html"
+}
