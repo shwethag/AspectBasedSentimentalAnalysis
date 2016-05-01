@@ -1,7 +1,11 @@
 doctype html
 html
-  head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-  body
-    block content
+	head
+		title= title
+		link(rel='stylesheet', href='/stylesheets/style.css')
+	body
+		div.loginbox
+			form(name="result", action="/server/result", method="post")
+				input(type="text", class="textbox",name="subject")
+				input(type="text",class="textbox", name="object")
+				input(type="submit", value="Search")
