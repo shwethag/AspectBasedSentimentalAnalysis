@@ -6,7 +6,7 @@ db=client["project"]
 collection=db["graph"]
 
 cnt=0
-with open('./data/FirstPost.json') as data_file:    
+with open('./data/Hindu.json') as data_file:    
     data = json.load(data_file)
     for i in range(len(data["articles"])):
     	url=data["articles"][i]["URL"]

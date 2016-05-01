@@ -1,11 +1,15 @@
 doctype html
 html
 	head
-		title= title
+		title= "Opinion Identifier"
 		link(rel='stylesheet', href='/stylesheets/style.css')
 	body
-		div.loginbox
+
+		div(class="entity")
+			h1 Opinion Identifier
 			form(name="result", action="/server/result", method="post")
+				label(for='subject',class='control-label') Subject Entity
 				input(type="text", class="textbox",name="subject")
+				label(for='object',class='control-label') Object Entity
 				input(type="text",class="textbox", name="object")
 				input(type="submit", value="Search")

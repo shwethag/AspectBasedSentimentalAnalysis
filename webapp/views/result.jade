@@ -1,0 +1,68 @@
+doctype html
+html
+	head
+		title= title
+		link(rel='stylesheet', href='/stylesheets/style.css')
+	body
+		p 
+			h3 HINDU
+			table(class='result')
+				thead
+					tr: th Subject
+						th Object
+						th Polarity 
+						th Title 
+						th URL
+				tbody
+					each item in params
+
+						if item['source'] == 'Hindu'
+							tr
+								td #{item['subjectEntity']}
+								td #{item['objectEntity']}
+								td #{item['polarity']}
+								td #{item['title']}
+								td
+									a(href="#{item['URL']}") link to post
+
+		p 
+			h3 Logical Indian
+			table(class='result')
+				thead
+					tr: th Subject
+						th Object
+						th Polarity 
+						th Title 
+						th URL
+				tbody
+					each item in params
+						if item['source'] == 'LogicalIndian'
+							tr
+								td #{item['subjectEntity']}
+								td #{item['objectEntity']}
+								td #{item['polarity']}
+								td #{item['title']}
+								td
+									a(href="#{item['URL']}") link to post
+
+
+		p 
+			h3 First Post
+			table(class='result')
+				thead
+					tr: th Subject
+						th Object
+						th Polarity 
+						th Title 
+						th URL
+				tbody
+					each item in params
+						if item['source'] == 'FirstPost'
+							tr
+								td #{item['subjectEntity']}
+								td #{item['objectEntity']}
+								td #{item['polarity']}
+								td #{item['title']}
+								td
+									a(href="#{item['URL']}") link to post
+
